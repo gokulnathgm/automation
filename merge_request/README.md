@@ -1,2 +1,2 @@
 ## Merge request automation
-Automates merge request to the 'master' branch whenenver changes are detected in the 'develop' branch.
+Automates merge request from a source branch to a target branch and assigns to a peer.

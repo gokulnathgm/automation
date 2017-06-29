@@ -1,3 +1,4 @@
 *.pyc
 merge_request/config.py
 env/
+.idea/
